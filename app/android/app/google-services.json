@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686732586899",
+    "firebase_url": "https://wanderlust-333212-default-rtdb.firebaseio.com",
+    "project_id": "wanderlust-333212",
+    "storage_bucket": "wanderlust-333212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686732586899:android:780ea2af260b112b33c266",
+        "android_client_info": {
+          "package_name": "com.aditidona.wonderlust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686732586899-8habkmjf5ji833i04poj1i73mgjt21vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRYcg8fJ2QWX0ZlxN9_KJ4QTwaoN7sYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686732586899-8habkmjf5ji833i04poj1i73mgjt21vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

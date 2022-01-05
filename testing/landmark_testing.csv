@@ -1,0 +1,20 @@
+Picture,Expected ,Actual,Match,Rank
+Taj Mahal,Taj Mahal,Taj Mahal,YES,1
+"Sun Temple, Konark ","Sun Temple, Konark ","Sun Temple, Konark",YES,1
+"Palitiana Temple, Bhavnagar","Palitiana Temple, Bhavnagar",none,NO,0.33
+"Kesaria Stupa, Kesaria","Kesaria Stupa, Kesaria",none,NO,0.33
+Tirupati Temple,Tirupati Temple,Tirupati Temple,NO,0.33
+"City Palace, Udaipur","City Palace, Udaipur",none,NO,0.33
+Elephanta Caves,Elephanta Caves,Elephanta Caves,YES,1
+Khajuraho Temple,Khajuraho Temple,Khajuraho Temple,YES,1
+"Meenakshi Temple, Madhurai","Meenakshi Temple, Madhurai","Meenakshi Temple, Madhurai",YES,1
+MahaBodhi Temple,MahaBodhi Temple,MahaBodhi Temple,YES,1
+Charminar,Charminar,Charminar,YES,1
+Golden Temple,Golden Temple,Golden Temple,YES,1
+Ajanta & Ellora,Ajanta & Ellora,none,none,0.33
+Akshardham Temple,Akshardham Temple,Akshardham Temple,YES,1
+Jama Masjid,Jama Masjid,Jama Masjid,YES,1
+Jaisalmer Fort,Jaisalmer Fort,Golden City Fort Jaisalmer,YES,1
+Pangong Lake,Pangong Lake,Pangong Lake,YES,1
+Red Fort,Red Fort,Red Fort,YES,1
+Hawa Mahal,Hawa Mahal,Hawa Mahal,YES,1

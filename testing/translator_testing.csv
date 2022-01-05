@@ -1,0 +1,22 @@
+S.no,Input,Language Choosen,Actual Output,Expected Output,Correct Output,Rank
+1,"Hello, How are you?",Hindi,"नमस्ते, कैसी हो तुम? ","नमस्ते, कैसी हो तुम? ",Yes,1
+2,Geothermal energy is natural heat from the interior of the Earth,German,Geothermische Energie ist natürliche Wärme aus dem Inneren der Erde,Geothermische Energie ist natürliche Wärme aus dem Inneren der Erde,Yes,1
+3,The Asian migration hypothesis is today supported by most of the scientific evidence,French,L'hypothèse de migration asiatique est aujourd'hui soutenue par la plupart des preuves scientifiques,L'hypothèse de migration asiatique est aujourd'hui soutenue par la plupart des preuves scientifiques,Yes,1
+4,No hay dos sin tres,english,There are no two without three,There are no two without three,Yes,1
+5,El que tiene boca se equivoca,hindi,"जो कोई भी मुंह है, वह गलतियाँ करता है",जिसके पास मुंह है वह गलती करता है,No,0.33
+6,Chacun voit midi à sa porte,Catalan,Tothom veu al migdia a la seva porta,Tothom veu al migdia a la seva porta,Yes,1
+7,Cada loco con su tema,French,À chacun son sujet,À chacun son sujet,Yes,1
+8,"Petit a petit, l'oiseau fait son nid",chinese,"一点一点,这只鸟会筑巢","一点一点,这只鸟会筑巢",Yes,1
+9,"Quand on a pas ce que l'on aime, il faut aimer ce que l'on a",punjabi,NULL,"ਜਦੋਂ ਸਾਡੇ ਕੋਲ ਉਹ ਨਹੀਂ ਹੁੰਦਾ ਜੋ ਅਸੀਂ ਪਸੰਦ ਕਰਦੇ ਹਾਂ, ਤਾਂ ਸਾਨੂੰ ਉਹ ਪਸੰਦ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜੋ ਸਾਡੇ ਕੋਲ ਹੈ",No,0.33
+10,xīshoujiānzainălə,english,Xǐshǒujiān zài nǎlǐ?,Xǐshǒujiān zài nǎlǐ?,Yes,1
+11,Hěn hào chī,hindi,Hěn हाओ ची,केवल गर्व,No,0.33
+12,早上好 ,french,Zodoshang pēi,Zodoshang pēi,Yes,1
+13,ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਖੁਸ਼ੀ ਹੋਈ,english,Happy to meet you,Happy to meet you,Yes,1
+14,Chak dey phattey,hindi,Chak dey phattey,चक दे ​​फटाय,No,0.33
+15,ਸਤ ਸ੍ਰੀ ਅਕਾਲ,Catalan,SAT SRI AKAL,SAT SRI AKAL,Yes,1
+16,किसी के साथ मजाक करना,english,Joke with someone,Joke with someone,Yes,1
+17,किसी के खिलाफ दिमाग में जहर घोलना,french,Poison dans le cerveau contre quiconque,Poison dans le cerveau contre quiconque,Yes,1
+18,किसी समस्या के परस्पर विरोधी अंग,Catalan,Òrgan anti-conflicte,Òrgan anti-conflicte,Yes,1
+19,किसी को सावधान करना,chinese,要小心,要小心,Yes,1
+20,कोई काम उलटे सिरे से शुरु करना,german,Beginnen Sie eine invertierte Arbeit,Beginnen Sie eine invertierte Arbeit,Yes,1
+,,,,,Yes,
